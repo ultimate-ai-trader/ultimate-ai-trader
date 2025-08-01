@@ -1,0 +1,9 @@
+requests
+flask
+numpy
+pandas
+ta
+scikit-learn
+beautifulsoup4
+lxml
+yfinance
